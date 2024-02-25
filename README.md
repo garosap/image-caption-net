@@ -1,4 +1,4 @@
-# Neural Network Exploration Notebook
+# Image Captioning Neural Network
 
 ## Introduction
 
